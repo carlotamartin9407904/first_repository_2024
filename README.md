@@ -5,6 +5,6 @@ This is the repository for activity 1.
 
 ## Actions
 
-- Added the README file to the repository.
-  
-hola no se si funciona
+- Added the README file to the reposito
+            
+ 
